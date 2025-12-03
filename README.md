@@ -1,4 +1,8 @@
+# tryhackme-mondaymonitor - Writeup & Repository
 
+This repository contains my short writeup and screenshots for the TryHackMe room **MondayMonitor** that I solved.
+
+**Room link:** [https://tryhackme.com/room/mondaymonitor](https://tryhackme.com/room/mondaymonitor)
 
 ---
 
