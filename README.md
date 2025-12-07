@@ -1,4 +1,14 @@
+# tryhackme-mondaymonitor - Writeup & Repository
 
+This repository contains my short writeup and screenshots for the TryHackMe room **MondayMonitor** that I solved.
+
+**Room link:** [https://tryhackme.com/room/mondaymonitor](https://tryhackme.com/room/mondaymonitor)
+
+---
+
+## Screenshots
+
+All important steps are documented with screenshots:
 
 <img width="1860" height="1043" alt="Screenshot 2025-09-14 at 10 00 33 PM" src="https://github.com/user-attachments/assets/e9e3096f-e5eb-4d31-b127-29ad7a97d986" />
 <img width="1860" height="1043" alt="Screenshot 2025-09-14 at 9 58 51 PM" src="https://github.com/user-attachments/assets/03692d7f-a4db-49af-a570-21d982b302c8" />
